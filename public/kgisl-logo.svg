@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" role="img" aria-labelledby="title desc">
+  <title id="title">KGiSL Institute of Technology</title>
+  <desc id="desc">KITE KGiSL Institute of Technology logo</desc>
+  <rect width="1200" height="600" fill="white" fill-opacity="0"/>
+  <g fill="#332d78" font-family="Arial, Helvetica, sans-serif" font-weight="800" font-style="italic">
+    <text x="46" y="332" font-size="270" letter-spacing="-24">KITE</text>
+  </g>
+  <path d="M875 70c33-27 61-45 88-54l109 170-81 51c-33 21-54 43-71 74 9-51 30-92 77-131l38-31-87-136c-25 8-49 24-73 57z" fill="#332d78"/>
+  <path d="M999 86l34-16 110 169-76 29c-46 18-79 44-108 82 25-55 63-93 122-119l35-16z" fill="#df2529"/>
+  <path d="M964 349c42-50 86-79 151-99l30 42c-83 18-139 43-181 91z" fill="#332d78"/>
+  <path d="M959 375c46-45 102-73 173-85l27 34c-86 10-147 28-200 70z" fill="#332d78"/>
+  <path d="M954 399c50-39 108-57 195-63l25 32c-91 0-153 8-220 43z" fill="#332d78"/>
+  <rect x="52" y="395" width="1096" height="3" fill="#332d78"/>
+  <g font-family="Arial, Helvetica, sans-serif" font-weight="800" font-size="57" fill="#332d78">
+    <text x="50" y="472" letter-spacing="-2">KGiSL INSTITUTE OF TECHNOLOGY</text>
+  </g>
+  <g font-family="Georgia, serif" font-weight="700" font-size="48">
+    <text x="307" y="548" fill="#332d78">co-</text>
+    <text x="394" y="548" fill="#df2529">K</text>
+    <text x="427" y="548" fill="#332d78">reate your </text>
+    <text x="693" y="548" fill="#df2529">Genius</text>
+  </g>
+  <path d="M143 533h135M932 533h135" stroke="#332d78" stroke-width="3"/>
+</svg>
